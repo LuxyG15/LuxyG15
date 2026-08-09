@@ -29,7 +29,7 @@ Right now I'm building **LuXy Hub**, and heavily exploring AI-assisted developme
 - 🔭 Currently working on **LuXy Hub** — a Roblox script hub ecosystem with a custom UI library and companion website
 - 🎨 Deep focus on **UI/UX for Roblox** — animation timing, easing curves, theming systems
 - 🔍 Interested in **reverse engineering** and how things work under the hood
-- 💬 Ask me about **Luau UI systems**, **Roblox scripting**, or **AI-assisted dev workflows**
+- 💬 Ask me about **Luau UI systems**, **Roblox scripting**
 
 <br>
 
