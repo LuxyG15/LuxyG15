@@ -1,29 +1,36 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LuxyG15/LuxyG15/main/assets/banner-dark.png" width="100%" alt="LuXy Hub — one loader, many games." />
+<img src="https://raw.githubusercontent.com/LuxyG15/LuxyG15/main/assets/banner.svg" width="100%" alt="LuXy Hub — one loader, many games." />
 
-# LuxyG15
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&lines=Roblox+Script+%26+UI+Developer;Owner+of+LuXy+Hub;Luau+%26+Java+%26+Python;Building+script+hubs+that+scale" alt="Typing SVG" />
 
-**Roblox Script & UI Developer** — building **LuXy Hub**
-
-> Clean, modular code. UI that feels good. Script hubs that scale.
+**Roblox scripter · UI library builder · reverse-engineering enthusiast**
 
 </div>
 
 ---
 
-## About
+## Who I Am
 
-I build tools inside the Roblox ecosystem — from custom UI libraries with smooth, professional-grade animations, to the backend systems that hold a whole script hub together. My focus is code that's clean, modular, and built to scale.
+I'm the **owner & lead developer of [LuXy Hub](https://luxydev.pages.dev)** — a free Roblox script hub with its own custom UI library and a companion website. One loader, many games.
 
-Currently deep in **LuXy Hub** — a script hub ecosystem with its own UI library and companion website — and exploring AI-assisted development workflows.
+What I actually do:
 
-- **Working on** — LuXy Hub (script hub + UI library + website)
-- **Focus** — Roblox UI/UX: animation timing, easing curves, theming systems
-- **Interested in** — reverse engineering, how things work under the hood
-- **Ask me about** — Luau UI systems, Roblox scripting
+- **Design & build** script hubs end-to-end: UI libraries with professional-grade animation (easing, theming, timing), feature backends, and the website that ties it all together.
+- **Reverse engineer** Roblox games to understand how they work under the hood — then turn that into clean, modular, scalable scripts.
+- **Ship fast, maintain forever** — I focus on code that's structured to scale, not just "good enough to ship."
 
-## Stack & Tools
+I'm also exploring **AI-assisted development workflows** — structured prompts and agent configurations to squeeze production-ready output out of AI coding tools.
+
+## What I'm Building
+
+| Project | What it is |
+|---------|------------|
+| **LuXy Hub** | Free Roblox script hub — custom UI library + loader + website |
+| **Website** | [luxydev.pages.dev](https://luxydev.pages.dev) — hub site, game statuses, showcases |
+| **Discord** | [discord.gg/A5Se9wzcu6](https://discord.gg/A5Se9wzcu6) — community & support |
+
+## Tech Stack
 
 <div align="center">
 
@@ -31,6 +38,12 @@ Currently deep in **LuXy Hub** — a script hub ecosystem with its own UI librar
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+## Tools I Use
+
+<div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -40,7 +53,7 @@ Currently deep in **LuXy Hub** — a script hub ecosystem with its own UI librar
 
 </div>
 
-## Stats
+## GitHub Stats
 
 <div align="center">
 
